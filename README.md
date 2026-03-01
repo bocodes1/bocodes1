@@ -21,8 +21,8 @@ I design, build, and scale digital businesses — from brand strategy to Shopify
 | Project | Description |
 |---------|-------------|
 | **Refined Concept** | Modern furniture ecommerce brand — premium positioning at accessible prices |
+| **NutriScale** | AI-powered smart kitchen scale — full ecommerce build with automated content pipelines |
 | **Portfolio** | [wenbozhao.ca](https://wenbozhao.ca) — case studies & project showcase |
-| **AI Ops System** | Automated business intelligence, content generation & task management |
 
 ---
 
@@ -53,7 +53,8 @@ I design, build, and scale digital businesses — from brand strategy to Shopify
 ### 📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/-wenbozhao.ca-000?style=flat-square&logo=google-chrome&logoColor=white)](https://wenbozhao.ca)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/wenbozhao)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenbo-zhao-5035a5332/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wenbozhao2006@gmail.com)
 
 ---
 
